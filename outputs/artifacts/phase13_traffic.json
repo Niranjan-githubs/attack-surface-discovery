@@ -1,0 +1,3076 @@
+{
+  "phase": 13,
+  "timestamp": "2026-04-13T07:48:42.921Z",
+  "requestCount": 176,
+  "requests": [
+    {
+      "url": "https://ginandjuice.shop/",
+      "path": "/",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066493530,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496918,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496919,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496919,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496919,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496919,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/pineapple_edition.png",
+      "path": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496923,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating3.png",
+      "path": "/resources/images/rating3.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496923,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/11.png",
+      "path": "/image/scanme/productcatalog/products/11.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496923,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating5.png",
+      "path": "/resources/images/rating5.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/10.png",
+      "path": "/image/scanme/productcatalog/products/10.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/5.jpg",
+      "path": "/image/scanme/blog/posts/5.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/3.jpg",
+      "path": "/image/scanme/blog/posts/3.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066496924,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498259,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498259,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498290,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/hero_banner_background1.jpg",
+      "path": "/resources/images/hero_banner_background1.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498290,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498290,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/Poppins/poppins.woff",
+      "path": "/resources/fonts/Poppins/poppins.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "origin": "https://ginandjuice.shop",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498290,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "origin": "https://ginandjuice.shop",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498290,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/heyes_bottle.png",
+      "path": "/resources/images/heyes_bottle.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498451,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/kettle_bottle.png",
+      "path": "/resources/images/kettle_bottle.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498451,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/g_j_bottle.png",
+      "path": "/resources/images/g_j_bottle.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498451,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/hero_banner_background2.png",
+      "path": "/resources/images/hero_banner_background2.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498454,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498454,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/Poppins/poppins-bold.woff",
+      "path": "/resources/fonts/Poppins/poppins-bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "origin": "https://ginandjuice.shop",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066498454,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/catalog",
+      "path": "/catalog",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501734,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501916,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsEcommerce.css",
+      "path": "/resources/css/labsEcommerce.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501920,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/pineapple_edition.png",
+      "path": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating3.png",
+      "path": "/resources/images/rating3.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/11.png",
+      "path": "/image/scanme/productcatalog/products/11.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating5.png",
+      "path": "/resources/images/rating5.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501921,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/10.png",
+      "path": "/image/scanme/productcatalog/products/10.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/5.png",
+      "path": "/image/scanme/productcatalog/products/5.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/8.png",
+      "path": "/image/scanme/productcatalog/products/8.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating1.png",
+      "path": "/resources/images/rating1.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/batch_1337.png",
+      "path": "/image/scanme/productcatalog/products/batch_1337.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating4.png",
+      "path": "/resources/images/rating4.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/3.png",
+      "path": "/image/scanme/productcatalog/products/3.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/1.png",
+      "path": "/image/scanme/productcatalog/products/1.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/7.png",
+      "path": "/image/scanme/productcatalog/products/7.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating2.png",
+      "path": "/resources/images/rating2.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/2.png",
+      "path": "/image/scanme/productcatalog/products/2.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/12.png",
+      "path": "/image/scanme/productcatalog/products/12.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/9.png",
+      "path": "/image/scanme/productcatalog/products/9.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/6.png",
+      "path": "/image/scanme/productcatalog/products/6.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/kettle_still.png",
+      "path": "/image/scanme/productcatalog/products/kettle_still.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/original_dry_sqli.png",
+      "path": "/image/scanme/productcatalog/products/original_dry_sqli.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/purple_hat.png",
+      "path": "/image/scanme/productcatalog/products/purple_hat.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/lost_in_a_heyes.png",
+      "path": "/image/scanme/productcatalog/products/lost_in_a_heyes.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/4.png",
+      "path": "/image/scanme/productcatalog/products/4.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501922,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501923,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066501923,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502096,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502096,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502097,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502101,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-search.svg",
+      "path": "/resources/images/icon-search.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502102,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502116,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066502116,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/blog",
+      "path": "/blog",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066505958,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506126,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsBlog.css",
+      "path": "/resources/css/labsBlog.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/deparam.js",
+      "path": "/resources/js/deparam.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/searchLogger.js",
+      "path": "/resources/js/searchLogger.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/5.jpg",
+      "path": "/image/scanme/blog/posts/5.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/3.jpg",
+      "path": "/image/scanme/blog/posts/3.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/4.jpg",
+      "path": "/image/scanme/blog/posts/4.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/6.jpg",
+      "path": "/image/scanme/blog/posts/6.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/1.jpg",
+      "path": "/image/scanme/blog/posts/1.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/2.jpg",
+      "path": "/image/scanme/blog/posts/2.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506129,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506294,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506294,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506295,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506303,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-search.svg",
+      "path": "/resources/images/icon-search.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506304,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506305,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066506305,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/about",
+      "path": "/about",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509447,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509614,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-team.jpg",
+      "path": "/resources/images/gin-and-juice-team.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-distillery.jpg",
+      "path": "/resources/images/gin-and-juice-distillery.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509616,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509617,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509617,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509621,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509621,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-team.mp4",
+      "path": "/resources/images/gin-and-juice-team.mp4",
+      "method": "GET",
+      "resourceType": "media",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "accept-encoding": "identity;q=1, *;q=0",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "range": "bytes=0-",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509623,
+      "status": 206,
+      "contentType": "video/mp4"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-team.mp4",
+      "path": "/resources/images/gin-and-juice-team.mp4",
+      "method": "GET",
+      "resourceType": "media",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "accept-encoding": "identity;q=1, *;q=0",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "range": "bytes=0-",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509623,
+      "status": 200,
+      "contentType": "video/mp4"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/batch1337_can.png",
+      "path": "/resources/images/batch1337_can.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509627,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/dry_SQLI_can.png",
+      "path": "/resources/images/dry_SQLI_can.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509627,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/pineapple-can.png",
+      "path": "/resources/images/pineapple-can.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509628,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509629,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509635,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/hero_banner_background2.png",
+      "path": "/resources/images/hero_banner_background2.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509635,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509636,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066509636,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-team.mp4",
+      "path": "/resources/images/gin-and-juice-team.mp4",
+      "method": "GET",
+      "resourceType": "media",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/about",
+        "accept-encoding": "identity;q=1, *;q=0",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "range": "bytes=1867776-",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066510314,
+      "status": 206,
+      "contentType": "video/mp4"
+    },
+    {
+      "url": "https://ginandjuice.shop/my-account",
+      "path": "/my-account",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066512879,
+      "status": 302,
+      "contentType": null
+    },
+    {
+      "url": "https://ginandjuice.shop/login",
+      "path": "/login",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513039,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513209,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513211,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513211,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513212,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513212,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513212,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513212,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513214,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/login",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513215,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513215,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513218,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513218,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513219,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/dark-blue-squiggle-pattern-tile.jpg",
+      "path": "/resources/images/dark-blue-squiggle-pattern-tile.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066513225,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/catalog/cart",
+      "path": "/catalog/cart",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066515930,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516095,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516096,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516096,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516096,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516096,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516097,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516098,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/cart",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516098,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516103,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516103,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/shopping-cart.svg",
+      "path": "/resources/images/shopping-cart.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/resources/css/labsScanme.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516103,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/catalog/product?productId=1",
+      "path": "/catalog/product",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066516788,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517067,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517069,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517069,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/productcatalog/products/pineapple_edition.png",
+      "path": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/rating3.png",
+      "path": "/resources/images/rating3.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/xmlStockCheckPayload.js",
+      "path": "/resources/js/xmlStockCheckPayload.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/stockCheck.js",
+      "path": "/resources/js/stockCheck.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517070,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517071,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517072,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/catalog/product?productId=1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517073,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517075,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517079,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517229,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066517229,
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ginandjuice.shop/blog/post?postId=3",
+      "path": "/blog/post",
+      "method": "GET",
+      "resourceType": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066519773,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/labheader/css/scanMeHeader.css",
+      "path": "/resources/labheader/css/scanMeHeader.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520051,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/css/labsScanme.css",
+      "path": "/resources/css/labsScanme.css",
+      "method": "GET",
+      "resourceType": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react.development.js",
+      "path": "/resources/js/react.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/react-dom.development.js",
+      "path": "/resources/js/react-dom.development.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/angular_1-7-7.js",
+      "path": "/resources/js/angular_1-7-7.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/image/scanme/blog/posts/5.jpg",
+      "path": "/image/scanme/blog/posts/5.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/avatar.svg",
+      "path": "/resources/images/avatar.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/js/subscribeNow.js",
+      "path": "/resources/js/subscribeNow.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/footer/js/scanme.js",
+      "path": "/resources/footer/js/scanme.js",
+      "method": "GET",
+      "resourceType": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520054,
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-account.svg",
+      "path": "/resources/images/icon-account.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520055,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/icon-cart.svg",
+      "path": "/resources/images/icon-cart.svg",
+      "method": "GET",
+      "resourceType": "other",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://ginandjuice.shop/blog/post?postId=3",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36",
+        "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520055,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "path": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "method": "GET",
+      "resourceType": "font",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520059,
+      "status": 200,
+      "contentType": "application/font-woff"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/gin-and-juice-shop-logo.svg",
+      "path": "/resources/images/gin-and-juice-shop-logo.svg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520060,
+      "status": 200,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/footer_graphic.jpg",
+      "path": "/resources/images/footer_graphic.jpg",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520060,
+      "status": 200,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://ginandjuice.shop/resources/images/Portswigger.png",
+      "path": "/resources/images/Portswigger.png",
+      "method": "GET",
+      "resourceType": "image",
+      "headers": {
+        "referer": ""
+      },
+      "postData": null,
+      "role": "unauthenticated",
+      "ts": 1776066520060,
+      "status": 200,
+      "contentType": "image/png"
+    }
+  ]
+}

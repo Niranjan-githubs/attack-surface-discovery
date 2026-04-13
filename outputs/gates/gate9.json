@@ -1,0 +1,11 @@
+{
+  "phase": 9,
+  "timestamp": "2026-04-13T08:30:22.725Z",
+  "verdict": "WARN",
+  "blockers": [],
+  "warnings": [
+    "Wayback query error: This operation was aborted"
+  ],
+  "brainstorm": [],
+  "inspectedArtifact": "phase9_historical.json"
+}

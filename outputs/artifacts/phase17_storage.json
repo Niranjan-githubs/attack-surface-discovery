@@ -1,0 +1,13 @@
+{
+  "phase": 17,
+  "timestamp": "2026-04-13T08:46:56.023Z",
+  "dbPath": "C:\\Users\\niran\\attack-surface-discovery\\output\\storage\\reconnaissance.db",
+  "rowCounts": {
+    "endpoints": 83,
+    "role_access": 74,
+    "parameters": 2,
+    "workflows": 5,
+    "workflow_steps": 11,
+    "secrets": 0
+  }
+}

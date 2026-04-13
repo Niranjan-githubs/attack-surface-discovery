@@ -1,0 +1,11 @@
+node_modules/
+output/
+outputs/
+env/
+venv/
+.env
+*.log
+.DS_Store
+
+files/
+pentesting_agent/

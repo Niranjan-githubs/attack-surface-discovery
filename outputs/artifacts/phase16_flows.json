@@ -1,0 +1,72 @@
+{
+  "phase": 16,
+  "timestamp": "2026-04-13T08:35:00.000Z",
+  "note": "Claude-authored from phase13_traffic.json observed GET sequences during unauthenticated crawl. Only flows with direct request evidence are included; no POST/write flows were exercised because no credentials were supplied.",
+  "workflowCount": 5,
+  "workflows": [
+    {
+      "name": "Landing → Catalog browse → Product detail",
+      "purpose": "Public e-commerce discovery path: homepage listing takes visitor to full catalog and then to a single product page (productId query parameter).",
+      "steps": [
+        { "endpoint": "/", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/catalog", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/catalog/product", "method": "GET", "role": "unauthenticated", "status": 200, "queryParams": ["productId"] }
+      ],
+      "dependencies": [],
+      "source": "observed-traffic"
+    },
+    {
+      "name": "Blog browse → Post view",
+      "purpose": "Content-marketing path: index page lists posts, detail page loads a single post by postId.",
+      "steps": [
+        { "endpoint": "/blog", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/blog/post", "method": "GET", "role": "unauthenticated", "status": 200, "queryParams": ["postId"] }
+      ],
+      "dependencies": [],
+      "source": "observed-traffic"
+    },
+    {
+      "name": "Cart view (unauthenticated)",
+      "purpose": "Visitor navigates to cart without having added items or logged in; page rendered without server-side order creation being observed.",
+      "steps": [
+        { "endpoint": "/catalog", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/catalog/cart", "method": "GET", "role": "unauthenticated", "status": 200 }
+      ],
+      "dependencies": [],
+      "source": "observed-traffic"
+    },
+    {
+      "name": "Account entry / login form render",
+      "purpose": "Clicking the account icon exposes /my-account which in turn presents /login. No credentials were supplied so the form submission step was not exercised.",
+      "steps": [
+        { "endpoint": "/my-account", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/login", "method": "GET", "role": "unauthenticated", "status": 200 }
+      ],
+      "dependencies": [],
+      "source": "observed-traffic",
+      "gaps": ["POST /login not exercised — no credentials provided for this run"]
+    },
+    {
+      "name": "About / static content",
+      "purpose": "Marketing-team about page with inline video and images — no dynamic behaviour observed.",
+      "steps": [
+        { "endpoint": "/", "method": "GET", "role": "unauthenticated", "status": 200 },
+        { "endpoint": "/about", "method": "GET", "role": "unauthenticated", "status": 200 }
+      ],
+      "dependencies": [],
+      "source": "observed-traffic"
+    }
+  ],
+  "inferredButNotExercised": [
+    {
+      "name": "Product stock check",
+      "evidence": "/resources/js/xmlStockCheckPayload.js and /resources/js/stockCheck.js are loaded on /catalog/product; the payload name implies an XML-bodied POST is triggered by a stock-check UI action that the crawler did not fire.",
+      "status": "flagged-for-authenticated-rerun"
+    },
+    {
+      "name": "Newsletter subscribe",
+      "evidence": "/resources/js/subscribeNow.js is loaded site-wide, suggesting a subscribe POST handler exists but was not observed.",
+      "status": "flagged-for-authenticated-rerun"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "phase": 1,
+  "target": "https://ginandjuice.shop",
+  "timestamp": "2026-04-13T07:42:42.587Z",
+  "accessible": true,
+  "statusCode": 200,
+  "responseTimeMs": 1500,
+  "headers": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-length": "2161",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Mon, 13 Apr 2026 07:42:43 GMT",
+    "set-cookie": "session=f4Ml0qvJslFijFaMPppS75mUzpC8eZq4; Secure; HttpOnly; SameSite=None",
+    "x-backend": "3e8b6e97-cf66-452d-8e3c-be78a076381f",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "error": null
+}

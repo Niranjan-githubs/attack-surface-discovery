@@ -1,0 +1,1396 @@
+{
+  "phase": 15,
+  "timestamp": "2026-04-13T08:34:48.308Z",
+  "totalEndpoints": 83,
+  "bySource": {
+    "active-crawl": 74,
+    "traffic": 74,
+    "fuzzing": 8,
+    "js-analysis": 1
+  },
+  "endpoints": [
+    {
+      "canonical": "/",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/about",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/admin",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/admin/dashboard",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/admin/login",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/admin/logs",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/admin/settings",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/admin/users",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        403
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/analytics",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/blog",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/blog/post",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 400
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/catalog",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/catalog/cart",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/catalog/product",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 400
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/favicon.ico",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "fuzzing"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/1.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/2.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/3.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/4.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/5.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/6.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/1.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/10.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/11.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/12.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/2.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/3.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/4.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/5.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/6.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/7.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/8.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/9.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/batch_1337.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/kettle_still.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/lost_in_a_heyes.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/original_dry_sqli.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/purple_hat.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/logger",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "js-analysis"
+      ],
+      "statuses": [],
+      "roleAccess": {},
+      "confidence": "medium"
+    },
+    {
+      "canonical": "/login",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/my-account",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        302
+      ],
+      "roleAccess": {
+        "unauthenticated": 302
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/css/labsBlog.css",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/css/labsEcommerce.css",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/css/labsScanme.css",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/fonts/Poppins/poppins-bold.woff",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/fonts/Poppins/poppins.woff",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/footer/js/scanme.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/avatar.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/batch1337_can.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/dark-blue-squiggle-pattern-tile.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/dry_SQLI_can.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/footer_graphic.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/g_j_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-distillery.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-shop-logo.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-team.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-team.mp4",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200,
+        206
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/hero_banner_background1.jpg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/hero_banner_background2.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/heyes_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/icon-account.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/icon-cart.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/icon-search.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/kettle_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/pineapple-can.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/Portswigger.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/rating1.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/rating2.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/rating3.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/rating4.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/rating5.png",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/images/shopping-cart.svg",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/angular_1-7-7.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/deparam.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/react-dom.development.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/react.development.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/searchLogger.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/stockCheck.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/subscribeNow.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/js/xmlStockCheckPayload.js",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    },
+    {
+      "canonical": "/resources/labheader/css/scanMeHeader.css",
+      "methods": [
+        "GET"
+      ],
+      "sources": [
+        "active-crawl",
+        "traffic"
+      ],
+      "statuses": [
+        200
+      ],
+      "roleAccess": {
+        "unauthenticated": 200
+      },
+      "confidence": "high"
+    }
+  ]
+}

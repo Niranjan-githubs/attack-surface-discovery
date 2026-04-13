@@ -1,0 +1,112 @@
+{
+  "phase": 3,
+  "target": "https://ginandjuice.shop",
+  "timestamp": "2026-04-13T07:46:06.118Z",
+  "patterns": {
+    "200": {
+      "statusCode": 200,
+      "samples": [
+        "/login"
+      ],
+      "typicalBodyLength": 7492,
+      "typicalSnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    "403": {
+      "statusCode": 403,
+      "samples": [
+        "/admin"
+      ],
+      "typicalBodyLength": 15,
+      "typicalSnippet": "\"Access denied\""
+    },
+    "404": {
+      "statusCode": 404,
+      "samples": [
+        "/nonexistent-5fdc2d24fcb4.html",
+        "/nonexistent-2b4553e2f930.html",
+        "/nonexistent-114cbd223e86.html",
+        "/nonexistent-850334441548.html",
+        "/nonexistent-922666afb50c.html",
+        "/nonexistent-5108829010b3.html",
+        "/.env",
+        "/api/internal-does-not-exist"
+      ],
+      "typicalBodyLength": 7349,
+      "typicalSnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    }
+  },
+  "samples": [
+    {
+      "path": "/nonexistent-5fdc2d24fcb4.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/nonexistent-2b4553e2f930.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/nonexistent-114cbd223e86.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/nonexistent-850334441548.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/nonexistent-922666afb50c.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/nonexistent-5108829010b3.html",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/admin",
+      "statusCode": 403,
+      "contentType": "application/json; charset=utf-8",
+      "bodyLength": 15,
+      "bodySnippet": "\"Access denied\""
+    },
+    {
+      "path": "/login",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7492,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/.env",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    {
+      "path": "/api/internal-does-not-exist",
+      "statusCode": 404,
+      "contentType": "text/html; charset=utf-8",
+      "bodyLength": 7349,
+      "bodySnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    }
+  ],
+  "soft404Warning": false,
+  "hasConsistent404": true
+}

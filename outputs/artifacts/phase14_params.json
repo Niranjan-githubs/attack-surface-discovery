@@ -1,0 +1,33 @@
+{
+  "phase": 14,
+  "timestamp": "2026-04-13T08:34:39.813Z",
+  "totalParams": 2,
+  "counts": {
+    "static": 2
+  },
+  "params": [
+    {
+      "path": "/catalog/product",
+      "name": "productId",
+      "where": "query",
+      "occurrences": 1,
+      "classification": "static",
+      "semanticType": null,
+      "sampleValues": [
+        "1"
+      ]
+    },
+    {
+      "path": "/blog/post",
+      "name": "postId",
+      "where": "query",
+      "occurrences": 1,
+      "classification": "static",
+      "semanticType": null,
+      "sampleValues": [
+        "3"
+      ]
+    }
+  ],
+  "coverage": 1
+}

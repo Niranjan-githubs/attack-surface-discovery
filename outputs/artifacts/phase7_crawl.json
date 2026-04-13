@@ -1,0 +1,602 @@
+{
+  "phase": 7,
+  "strategy": "Hybrid",
+  "timestamp": "2026-04-13T07:48:42.920Z",
+  "endpoints": [
+    {
+      "canonical": "/",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/labheader/css/scanMeHeader.css",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/css/labsScanme.css",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/react.development.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/react-dom.development.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/angular_1-7-7.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/rating3.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/11.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/rating5.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/10.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/5.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/3.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/subscribeNow.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/footer/js/scanme.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/icon-account.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/icon-cart.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-shop-logo.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/hero_banner_background1.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/footer_graphic.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/fonts/Poppins/poppins.woff",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/heyes_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/kettle_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/g_j_bottle.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/hero_banner_background2.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/Portswigger.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/fonts/Poppins/poppins-bold.woff",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/catalog",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/css/labsEcommerce.css",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/5.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/8.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/rating1.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/batch_1337.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/rating4.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/3.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/1.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/7.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/rating2.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/2.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/12.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/9.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/6.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/kettle_still.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/original_dry_sqli.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/purple_hat.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/lost_in_a_heyes.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/productcatalog/products/4.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/icon-search.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/blog",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/css/labsBlog.css",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/deparam.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/searchLogger.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/4.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/6.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/1.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/image/scanme/blog/posts/2.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/about",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-team.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-distillery.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/gin-and-juice-team.mp4",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/batch1337_can.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/dry_SQLI_can.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/pineapple-can.png",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/my-account",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/login",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/dark-blue-squiggle-pattern-tile.jpg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/catalog/cart",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/shopping-cart.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/catalog/product",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/xmlStockCheckPayload.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/js/stockCheck.js",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/blog/post",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    },
+    {
+      "canonical": "/resources/images/avatar.svg",
+      "methods": [
+        "GET"
+      ],
+      "discoveredBy": "active-crawl",
+      "role": "unauthenticated"
+    }
+  ],
+  "rolesCrawled": [
+    "unauthenticated"
+  ]
+}

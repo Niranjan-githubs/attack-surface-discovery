@@ -1,0 +1,134 @@
+{
+  "phase": 10,
+  "timestamp": "2026-04-13T08:34:07.622Z",
+  "candidatesTested": 164,
+  "baselineBodyLength": 7349,
+  "hits": [
+    {
+      "path": "/favicon.ico",
+      "status": 200,
+      "length": 15398,
+      "looksLike404": false
+    },
+    {
+      "path": "/analytics",
+      "status": 200,
+      "length": 0,
+      "looksLike404": false
+    }
+  ],
+  "redirects": [],
+  "authProtected": [
+    {
+      "path": "/admin",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/login",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/users",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/dashboard",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/users",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/dashboard",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/settings",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    },
+    {
+      "path": "/admin/logs",
+      "status": 403,
+      "length": 15,
+      "looksLike404": false
+    }
+  ],
+  "newEndpoints": [
+    {
+      "canonical": "/favicon.ico",
+      "status": 200,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/analytics",
+      "status": 200,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/login",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/users",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/dashboard",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/users",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/dashboard",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/settings",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    },
+    {
+      "canonical": "/admin/logs",
+      "status": 403,
+      "discoveredBy": "fuzzing"
+    }
+  ]
+}

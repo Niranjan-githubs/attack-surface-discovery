@@ -1,0 +1,41 @@
+{
+  "name": "attack-surface-discovery",
+  "version": "1.0.0",
+  "description": "Autonomous attack surface discovery skill for Claude Code. 18-phase reconnaissance pipeline.",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "install-browsers": "playwright install chromium",
+    "setup": "npm install && playwright install chromium",
+    "scan": "node scripts/runner.js",
+    "scan:url": "node scripts/runner.js --target",
+    "phase1": "node scripts/phase1-accessibility.js",
+    "phase2": "node scripts/phase2-metadata.js",
+    "phase3": "node scripts/phase3-fingerprint.js",
+    "phase4": "node scripts/phase4-apptype.js",
+    "phase5": "node scripts/phase5-launch.js",
+    "phase6": "node scripts/phase6-auth.js",
+    "phase7": "node scripts/phase7-crawl.js",
+    "phase8": "node scripts/phase8-classify.js",
+    "phase9": "node scripts/phase9-wayback.js",
+    "phase10": "node scripts/phase10-fuzz.js",
+    "phase11": "node scripts/phase11-js.js",
+    "phase12": "node scripts/phase12-apidocs.js",
+    "phase14": "node scripts/phase14-params.js",
+    "phase15": "node scripts/phase15-dedup.js",
+    "phase16": "node scripts/phase16-flows.js",
+    "phase17": "node scripts/phase17-storage.js",
+    "phase18": "node scripts/phase18-report.js",
+    "gate": "node scripts/phase-gate.js",
+    "judge": "node scripts/final-judge.js",
+    "resume-prompt": "node scripts/resume-prompt.js",
+    "query": "node -e \"const db=require('better-sqlite3')('output/storage/reconnaissance.db',{readonly:true});console.log(db.prepare('SELECT canonical, methods, sources FROM endpoints ORDER BY canonical').all());\""
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "cheerio": "^1.0.0",
+    "playwright": "^1.48.0"
+  }
+}

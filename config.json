@@ -1,0 +1,22 @@
+{
+  "target": "https://owasp.org/www-project-juice-shop/",
+  "outputDir": "./output",
+  "mode": "full",
+  "scope": {
+    "domains": ["https://owasp.org"],
+    "avoid": [
+      { "type": "path", "pattern": "/logout", "reason": "Avoid accidentally invalidating the Playwright session we just set up." },
+      { "type": "path", "pattern": "/admin/shutdown", "reason": "Destructive-by-name." }
+    ]
+  },
+  "limits": {
+    "maxCrawlPages": 40,
+    "maxCrawlDepth": 5,
+    "classifyConcurrency": 6,
+    "classifyTimeoutMs": 5000,
+    "fuzzConcurrency": 4,
+    "requestTimeoutMs": 15000,
+    "fuzzJitterMs": 100
+  },
+  "reportFormats": ["json", "md"]
+}

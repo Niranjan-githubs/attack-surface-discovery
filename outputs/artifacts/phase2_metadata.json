@@ -1,0 +1,33 @@
+{
+  "phase": 2,
+  "target": "https://ginandjuice.shop",
+  "timestamp": "2026-04-13T07:45:27.966Z",
+  "title": "Home - Gin & Juice Shop",
+  "description": null,
+  "techStack": {
+    "frameworks": [
+      "React"
+    ],
+    "server": null,
+    "poweredBy": null
+  },
+  "initialEndpoints": [
+    "/",
+    "/about",
+    "/blog",
+    "/blog/post",
+    "/catalog",
+    "/catalog/cart",
+    "/catalog/product",
+    "/my-account"
+  ],
+  "initialForms": [],
+  "scripts": [
+    "/resources/js/react.development.js",
+    "/resources/js/react-dom.development.js",
+    "/resources/js/angular_1-7-7.js",
+    "/resources/js/subscribeNow.js",
+    "/resources/footer/js/scanme.js"
+  ],
+  "htmlBodyEmpty": false
+}

@@ -1,0 +1,14 @@
+{
+  "phase": 12,
+  "timestamp": "2026-04-13T08:32:56.737Z",
+  "specs": [
+    {
+      "url": "https://ginandjuice.shop/?wsdl",
+      "type": "ui-page",
+      "status": 200
+    }
+  ],
+  "graphqlFound": false,
+  "graphqlSchema": null,
+  "endpoints": []
+}

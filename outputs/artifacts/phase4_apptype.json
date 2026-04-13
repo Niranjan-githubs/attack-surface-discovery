@@ -1,0 +1,18 @@
+{
+  "phase": 4,
+  "appType": "Hybrid",
+  "confidence": 0.65,
+  "rationale": "SPA framework but with meaningful initial HTML",
+  "signals": {
+    "emptyBody": false,
+    "scriptCount": 5,
+    "frameworks": [
+      "React"
+    ],
+    "hasSpaFramework": true,
+    "hasServerForm": false,
+    "linkCount": 8,
+    "formCount": 0
+  },
+  "timestamp": "2026-04-13T07:46:36.382Z"
+}

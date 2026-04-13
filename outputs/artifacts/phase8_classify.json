@@ -1,0 +1,457 @@
+{
+  "phase": 8,
+  "timestamp": "2026-04-13T08:25:31.418Z",
+  "endpointCount": 74,
+  "roles": [
+    "unauthenticated"
+  ],
+  "concurrency": 6,
+  "timeoutMs": 5000,
+  "matrix": {
+    "/": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/labheader/css/scanMeHeader.css": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/css/labsScanme.css": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/rating3.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/react.development.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/angular_1-7-7.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/rating5.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/11.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/5.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/pineapple_edition.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/subscribeNow.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/icon-account.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/footer/js/scanme.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/icon-cart.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/10.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/react-dom.development.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/gin-and-juice-shop-logo.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/3.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/footer_graphic.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/fonts/Poppins/poppins.woff": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/hero_banner_background1.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/heyes_bottle.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/fonts/JosefinSans/JosefinSans-Bold.woff": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/catalog": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/kettle_bottle.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/hero_banner_background2.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/Portswigger.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/fonts/Poppins/poppins-bold.woff": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/g_j_bottle.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/css/labsEcommerce.css": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/8.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/rating1.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/rating4.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/5.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/batch_1337.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/7.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/rating2.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/3.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/2.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/9.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/1.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/12.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/lost_in_a_heyes.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/4.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/purple_hat.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/6.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/kettle_still.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/productcatalog/products/original_dry_sqli.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/icon-search.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/blog": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/css/labsBlog.css": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/deparam.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/searchLogger.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/4.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/6.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/1.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/about": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/gin-and-juice-team.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/gin-and-juice-distillery.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/batch1337_can.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/image/scanme/blog/posts/2.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/dry_SQLI_can.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/pineapple-can.png": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/my-account": {
+      "unauthenticated": {
+        "status": 302,
+        "method": "GET"
+      }
+    },
+    "/login": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/dark-blue-squiggle-pattern-tile.jpg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/catalog/cart": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/shopping-cart.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/catalog/product": {
+      "unauthenticated": {
+        "status": 400,
+        "method": "GET"
+      }
+    },
+    "/resources/js/xmlStockCheckPayload.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/js/stockCheck.js": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/blog/post": {
+      "unauthenticated": {
+        "status": 400,
+        "method": "GET"
+      }
+    },
+    "/resources/images/avatar.svg": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    },
+    "/resources/images/gin-and-juice-team.mp4": {
+      "unauthenticated": {
+        "status": 200,
+        "method": "GET"
+      }
+    }
+  },
+  "anomalies": []
+}

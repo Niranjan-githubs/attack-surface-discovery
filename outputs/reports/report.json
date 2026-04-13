@@ -1,0 +1,1125 @@
+{
+  "generatedAt": "2026-04-13T08:47:09.005Z",
+  "target": {
+    "url": "https://ginandjuice.shop",
+    "phase": 1,
+    "target": "https://ginandjuice.shop",
+    "timestamp": "2026-04-13T07:42:42.587Z",
+    "accessible": true,
+    "statusCode": 200,
+    "responseTimeMs": 1500,
+    "headers": {
+      "connection": "keep-alive",
+      "content-encoding": "gzip",
+      "content-length": "2161",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Mon, 13 Apr 2026 07:42:43 GMT",
+      "set-cookie": "session=f4Ml0qvJslFijFaMPppS75mUzpC8eZq4; Secure; HttpOnly; SameSite=None",
+      "x-backend": "3e8b6e97-cf66-452d-8e3c-be78a076381f",
+      "x-frame-options": "SAMEORIGIN"
+    },
+    "error": null
+  },
+  "appType": "Hybrid",
+  "appTypeConfidence": 0.65,
+  "techStack": {
+    "frameworks": [
+      "React"
+    ],
+    "server": null,
+    "poweredBy": null
+  },
+  "rolesTested": [
+    "unauthenticated"
+  ],
+  "auth": {
+    "mechanism": "none",
+    "successfulRoles": []
+  },
+  "totals": {
+    "endpoints": 83,
+    "workflows": 5,
+    "parameters": 2,
+    "secrets": 0,
+    "discoverySources": [
+      "active-crawl",
+      "traffic",
+      "fuzzing",
+      "js-analysis"
+    ],
+    "historicalFound": 0,
+    "historicalStillLive": 0
+  },
+  "completenessScore": 0.905,
+  "endpointInventory": [
+    {
+      "id": 1,
+      "canonical": "/",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 2,
+      "canonical": "/about",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 3,
+      "canonical": "/admin",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 4,
+      "canonical": "/admin/dashboard",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 5,
+      "canonical": "/admin/login",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 6,
+      "canonical": "/admin/logs",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 7,
+      "canonical": "/admin/settings",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 8,
+      "canonical": "/admin/users",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "403",
+      "confidence": "medium"
+    },
+    {
+      "id": 9,
+      "canonical": "/analytics",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "200",
+      "confidence": "medium"
+    },
+    {
+      "id": 10,
+      "canonical": "/blog",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 11,
+      "canonical": "/blog/post",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 12,
+      "canonical": "/catalog",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 13,
+      "canonical": "/catalog/cart",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 14,
+      "canonical": "/catalog/product",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 15,
+      "canonical": "/favicon.ico",
+      "methods": "GET",
+      "sources": "fuzzing",
+      "statuses": "200",
+      "confidence": "medium"
+    },
+    {
+      "id": 16,
+      "canonical": "/image/scanme/blog/posts/1.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 17,
+      "canonical": "/image/scanme/blog/posts/2.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 18,
+      "canonical": "/image/scanme/blog/posts/3.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 19,
+      "canonical": "/image/scanme/blog/posts/4.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 20,
+      "canonical": "/image/scanme/blog/posts/5.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 21,
+      "canonical": "/image/scanme/blog/posts/6.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 22,
+      "canonical": "/image/scanme/productcatalog/products/1.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 23,
+      "canonical": "/image/scanme/productcatalog/products/10.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 24,
+      "canonical": "/image/scanme/productcatalog/products/11.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 25,
+      "canonical": "/image/scanme/productcatalog/products/12.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 26,
+      "canonical": "/image/scanme/productcatalog/products/2.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 27,
+      "canonical": "/image/scanme/productcatalog/products/3.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 28,
+      "canonical": "/image/scanme/productcatalog/products/4.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 29,
+      "canonical": "/image/scanme/productcatalog/products/5.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 30,
+      "canonical": "/image/scanme/productcatalog/products/6.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 31,
+      "canonical": "/image/scanme/productcatalog/products/7.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 32,
+      "canonical": "/image/scanme/productcatalog/products/8.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 33,
+      "canonical": "/image/scanme/productcatalog/products/9.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 34,
+      "canonical": "/image/scanme/productcatalog/products/batch_1337.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 35,
+      "canonical": "/image/scanme/productcatalog/products/kettle_still.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 36,
+      "canonical": "/image/scanme/productcatalog/products/lost_in_a_heyes.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 37,
+      "canonical": "/image/scanme/productcatalog/products/original_dry_sqli.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 38,
+      "canonical": "/image/scanme/productcatalog/products/pineapple_edition.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 39,
+      "canonical": "/image/scanme/productcatalog/products/purple_hat.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 40,
+      "canonical": "/logger",
+      "methods": "GET",
+      "sources": "js-analysis",
+      "statuses": "",
+      "confidence": "medium"
+    },
+    {
+      "id": 41,
+      "canonical": "/login",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 42,
+      "canonical": "/my-account",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "302",
+      "confidence": "high"
+    },
+    {
+      "id": 43,
+      "canonical": "/resources/css/labsBlog.css",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 44,
+      "canonical": "/resources/css/labsEcommerce.css",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 45,
+      "canonical": "/resources/css/labsScanme.css",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 46,
+      "canonical": "/resources/fonts/JosefinSans/JosefinSans-Bold.woff",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 47,
+      "canonical": "/resources/fonts/Poppins/poppins-bold.woff",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 48,
+      "canonical": "/resources/fonts/Poppins/poppins.woff",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 49,
+      "canonical": "/resources/footer/js/scanme.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 68,
+      "canonical": "/resources/images/Portswigger.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 50,
+      "canonical": "/resources/images/avatar.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 51,
+      "canonical": "/resources/images/batch1337_can.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 52,
+      "canonical": "/resources/images/dark-blue-squiggle-pattern-tile.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 53,
+      "canonical": "/resources/images/dry_SQLI_can.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 54,
+      "canonical": "/resources/images/footer_graphic.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 55,
+      "canonical": "/resources/images/g_j_bottle.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 56,
+      "canonical": "/resources/images/gin-and-juice-distillery.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 57,
+      "canonical": "/resources/images/gin-and-juice-shop-logo.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 58,
+      "canonical": "/resources/images/gin-and-juice-team.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 59,
+      "canonical": "/resources/images/gin-and-juice-team.mp4",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200,206",
+      "confidence": "high"
+    },
+    {
+      "id": 60,
+      "canonical": "/resources/images/hero_banner_background1.jpg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 61,
+      "canonical": "/resources/images/hero_banner_background2.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 62,
+      "canonical": "/resources/images/heyes_bottle.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 63,
+      "canonical": "/resources/images/icon-account.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 64,
+      "canonical": "/resources/images/icon-cart.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 65,
+      "canonical": "/resources/images/icon-search.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 66,
+      "canonical": "/resources/images/kettle_bottle.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 67,
+      "canonical": "/resources/images/pineapple-can.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 69,
+      "canonical": "/resources/images/rating1.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 70,
+      "canonical": "/resources/images/rating2.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 71,
+      "canonical": "/resources/images/rating3.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 72,
+      "canonical": "/resources/images/rating4.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 73,
+      "canonical": "/resources/images/rating5.png",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 74,
+      "canonical": "/resources/images/shopping-cart.svg",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 75,
+      "canonical": "/resources/js/angular_1-7-7.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 76,
+      "canonical": "/resources/js/deparam.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 77,
+      "canonical": "/resources/js/react-dom.development.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 78,
+      "canonical": "/resources/js/react.development.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 79,
+      "canonical": "/resources/js/searchLogger.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 80,
+      "canonical": "/resources/js/stockCheck.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 81,
+      "canonical": "/resources/js/subscribeNow.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 82,
+      "canonical": "/resources/js/xmlStockCheckPayload.js",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    },
+    {
+      "id": 83,
+      "canonical": "/resources/labheader/css/scanMeHeader.css",
+      "methods": "GET",
+      "sources": "active-crawl,traffic",
+      "statuses": "200",
+      "confidence": "high"
+    }
+  ],
+  "roleAccessMatrix": {
+    "/": {
+      "unauthenticated": 200
+    },
+    "/about": {
+      "unauthenticated": 200
+    },
+    "/blog": {
+      "unauthenticated": 200
+    },
+    "/blog/post": {
+      "unauthenticated": 400
+    },
+    "/catalog": {
+      "unauthenticated": 200
+    },
+    "/catalog/cart": {
+      "unauthenticated": 200
+    },
+    "/catalog/product": {
+      "unauthenticated": 400
+    },
+    "/image/scanme/blog/posts/1.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/blog/posts/2.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/blog/posts/3.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/blog/posts/4.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/blog/posts/5.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/blog/posts/6.jpg": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/1.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/10.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/11.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/12.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/2.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/3.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/4.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/5.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/6.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/7.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/8.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/9.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/batch_1337.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/kettle_still.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/lost_in_a_heyes.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/original_dry_sqli.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/pineapple_edition.png": {
+      "unauthenticated": 200
+    },
+    "/image/scanme/productcatalog/products/purple_hat.png": {
+      "unauthenticated": 200
+    },
+    "/login": {
+      "unauthenticated": 200
+    },
+    "/my-account": {
+      "unauthenticated": 302
+    },
+    "/resources/css/labsBlog.css": {
+      "unauthenticated": 200
+    },
+    "/resources/css/labsEcommerce.css": {
+      "unauthenticated": 200
+    },
+    "/resources/css/labsScanme.css": {
+      "unauthenticated": 200
+    },
+    "/resources/fonts/JosefinSans/JosefinSans-Bold.woff": {
+      "unauthenticated": 200
+    },
+    "/resources/fonts/Poppins/poppins-bold.woff": {
+      "unauthenticated": 200
+    },
+    "/resources/fonts/Poppins/poppins.woff": {
+      "unauthenticated": 200
+    },
+    "/resources/footer/js/scanme.js": {
+      "unauthenticated": 200
+    },
+    "/resources/images/avatar.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/batch1337_can.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/dark-blue-squiggle-pattern-tile.jpg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/dry_SQLI_can.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/footer_graphic.jpg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/g_j_bottle.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/gin-and-juice-distillery.jpg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/gin-and-juice-shop-logo.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/gin-and-juice-team.jpg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/gin-and-juice-team.mp4": {
+      "unauthenticated": 200
+    },
+    "/resources/images/hero_banner_background1.jpg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/hero_banner_background2.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/heyes_bottle.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/icon-account.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/icon-cart.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/icon-search.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/images/kettle_bottle.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/pineapple-can.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/Portswigger.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/rating1.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/rating2.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/rating3.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/rating4.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/rating5.png": {
+      "unauthenticated": 200
+    },
+    "/resources/images/shopping-cart.svg": {
+      "unauthenticated": 200
+    },
+    "/resources/js/angular_1-7-7.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/deparam.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/react-dom.development.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/react.development.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/searchLogger.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/stockCheck.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/subscribeNow.js": {
+      "unauthenticated": 200
+    },
+    "/resources/js/xmlStockCheckPayload.js": {
+      "unauthenticated": 200
+    },
+    "/resources/labheader/css/scanMeHeader.css": {
+      "unauthenticated": 200
+    }
+  },
+  "anomalies": [],
+  "workflows": [
+    {
+      "id": 1,
+      "name": "Landing → Catalog browse → Product detail",
+      "purpose": "Public e-commerce discovery path: homepage listing takes visitor to full catalog and then to a single product page (productId query parameter).",
+      "step_count": 3,
+      "steps": [
+        {
+          "workflow_id": 1,
+          "step_order": 0,
+          "endpoint_canonical": "/",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 1,
+          "step_order": 1,
+          "endpoint_canonical": "/catalog",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 1,
+          "step_order": 2,
+          "endpoint_canonical": "/catalog/product",
+          "method": "GET",
+          "role": "unauthenticated"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Blog browse → Post view",
+      "purpose": "Content-marketing path: index page lists posts, detail page loads a single post by postId.",
+      "step_count": 2,
+      "steps": [
+        {
+          "workflow_id": 2,
+          "step_order": 0,
+          "endpoint_canonical": "/blog",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 2,
+          "step_order": 1,
+          "endpoint_canonical": "/blog/post",
+          "method": "GET",
+          "role": "unauthenticated"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cart view (unauthenticated)",
+      "purpose": "Visitor navigates to cart without having added items or logged in; page rendered without server-side order creation being observed.",
+      "step_count": 2,
+      "steps": [
+        {
+          "workflow_id": 3,
+          "step_order": 0,
+          "endpoint_canonical": "/catalog",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 3,
+          "step_order": 1,
+          "endpoint_canonical": "/catalog/cart",
+          "method": "GET",
+          "role": "unauthenticated"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Account entry / login form render",
+      "purpose": "Clicking the account icon exposes /my-account which in turn presents /login. No credentials were supplied so the form submission step was not exercised.",
+      "step_count": 2,
+      "steps": [
+        {
+          "workflow_id": 4,
+          "step_order": 0,
+          "endpoint_canonical": "/my-account",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 4,
+          "step_order": 1,
+          "endpoint_canonical": "/login",
+          "method": "GET",
+          "role": "unauthenticated"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "About / static content",
+      "purpose": "Marketing-team about page with inline video and images — no dynamic behaviour observed.",
+      "step_count": 2,
+      "steps": [
+        {
+          "workflow_id": 5,
+          "step_order": 0,
+          "endpoint_canonical": "/",
+          "method": "GET",
+          "role": "unauthenticated"
+        },
+        {
+          "workflow_id": 5,
+          "step_order": 1,
+          "endpoint_canonical": "/about",
+          "method": "GET",
+          "role": "unauthenticated"
+        }
+      ]
+    }
+  ],
+  "jsAnalysis": {
+    "filesAnalyzed": 9,
+    "endpointsFromJs": 1,
+    "secrets": []
+  },
+  "historical": {
+    "phase": 9,
+    "target": "https://ginandjuice.shop",
+    "timestamp": "2026-04-13T08:30:02.358Z",
+    "historicalUrls": [],
+    "stillLive": [],
+    "error": "This operation was aborted"
+  },
+  "fuzzing": {
+    "tested": 164,
+    "hits": 2,
+    "authProtected": 9
+  },
+  "apiSpecs": [
+    {
+      "url": "https://ginandjuice.shop/?wsdl",
+      "type": "ui-page",
+      "status": 200
+    }
+  ],
+  "responseFingerprints": {
+    "200": {
+      "statusCode": 200,
+      "samples": [
+        "/login"
+      ],
+      "typicalBodyLength": 7492,
+      "typicalSnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    },
+    "403": {
+      "statusCode": 403,
+      "samples": [
+        "/admin"
+      ],
+      "typicalBodyLength": 15,
+      "typicalSnippet": "\"Access denied\""
+    },
+    "404": {
+      "statusCode": 404,
+      "samples": [
+        "/nonexistent-5fdc2d24fcb4.html",
+        "/nonexistent-2b4553e2f930.html",
+        "/nonexistent-114cbd223e86.html",
+        "/nonexistent-850334441548.html",
+        "/nonexistent-922666afb50c.html",
+        "/nonexistent-5108829010b3.html",
+        "/.env",
+        "/api/internal-does-not-exist"
+      ],
+      "typicalBodyLength": 7349,
+      "typicalSnippet": "<!DOCTYPE html> <html> <!--LAB_HEAD_START--> <head> <link href=/resources/labheader/css/scanMeHeader.css rel=stylesheet> <link href=/resources/css/labsScanme.css rel=stylesheet> <meta name=\"viewport\" "
+    }
+  },
+  "limitations": [
+    "Wayback Machine query failed: This operation was aborted"
+  ]
+}
