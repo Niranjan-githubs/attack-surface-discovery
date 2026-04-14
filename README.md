@@ -1,10 +1,3 @@
-New-Item -ItemType SymbolicLink `                                                                                                              -Path "C:\Users\niran\.claude\skills\attack-surface-discovery" `
-    -Target "C:\Users\niran\attack-surface-discovery"  
-
-cmd /c mklink /J "C:\Users\niran\.claude\skills\attack-surface-discovery" "C:\Users\niran\attack-surface-discovery"
-
-verify 
-ls "C:\Users\niran\.claude\skills\attack-surface-discovery"
 
 
 
