@@ -49,49 +49,6 @@ npm run phase7     # active crawl (requires phase 1-6 to have run)
 npm run query      # dump endpoint inventory from the DB
 ```
 
-## Layout
-
-```
-attack-surface-discovery/
-├── SKILL.md               # Claude Code skill (the orchestrator)
-├── ARCHITECTURE.md        # 1-2 page design write-up
-├── README.md              # this file
-├── config.json
-├── credentials.json
-├── package.json
-├── scripts/
-│   ├── lib.js             # shared helpers
-│   ├── runner.js          # automated end-to-end harness
-│   ├── phase1-accessibility.js
-│   ├── phase2-metadata.js
-│   ├── phase3-fingerprint.js
-│   ├── phase4-apptype.js
-│   ├── phase5-launch.js
-│   ├── phase6-auth.js     # Playwright, per-role sessions, generates refresh script
-│   ├── phase7-crawl.js    # Playwright crawl + phase 13 traffic interception
-│   ├── phase8-classify.js # per-role response probing
-│   ├── phase9-wayback.js
-│   ├── phase10-fuzz.js    # Node-based fuzzer w/ 404-baseline filtering
-│   ├── phase11-js.js      # endpoint + secret extraction
-│   ├── phase12-apidocs.js # OpenAPI / Swagger / GraphQL introspection
-│   ├── phase14-params.js  # static/dynamic/unknown classification
-│   ├── phase15-dedup.js   # master inventory
-│   ├── phase16-flows.js   # heuristic workflow grouping (fallback)
-│   ├── phase17-storage.js # SQLite — single translation point
-│   ├── phase18-report.js  # JSON + Markdown report
-│   ├── phase-gate.js      # PASS/WARN/FAIL gate per phase
-│   ├── final-judge.js     # heuristic zero-context audit of the final report
-│   └── resume-prompt.js   # generates output/resume-prompt.md
-└── output/
-    ├── artifacts/         # phase1_*.json … phase18_*.json
-    ├── gates/             # gate1.json … gate17.json (PASS/WARN/FAIL)
-    ├── auth/              # per-role storage state + refresh scripts
-    ├── storage/reconnaissance.db
-    ├── reports/report.{json,md}
-    ├── reports/final-judge.json
-    ├── resume-prompt.md   # paste into a fresh session to resume
-    └── logs/orchestrator.log
-```
 
 ## Quality gates
 
