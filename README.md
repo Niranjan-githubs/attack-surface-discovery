@@ -6,7 +6,7 @@
 
 Autonomous reconnaissance skill for Claude Code. Maps a web application's attack surface through 18 phases — accessibility → crawling → fuzzing → flow mapping → report.
 
-## Submission contents (Securin hiring challenge)
+## Submission contents 
 
 | File | Purpose |
 |---|---|
